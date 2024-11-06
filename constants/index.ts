@@ -74,23 +74,23 @@ export const icons = {
 export const onboarding = [
   {
     id: 1,
-    title: "The perfect ride is just a tap away!",
+    title: "Your Health, Just a Tap Away",
     description:
-      "Your journey begins with Ryde. Find your ideal ride effortlessly.",
+      "Monitor your health stats effortlessly with Urometer.",
     image: images.onboarding1,
   },
   {
     id: 2,
-    title: "Best car in your hands with Ryde",
+    title: "Stay in Control of Your Health",
     description:
-      "Discover the convenience of finding your perfect ride with Ryde",
+      "Real-time monitoring of vital signs at your fingertips.",
     image: images.onboarding2,
   },
   {
     id: 3,
-    title: "Your ride, your way. Let's go!",
+    title: "Your Health, Personalized",
     description:
-      "Enter your destination, sit back, and let us take care of the rest.",
+      "Get tailored insights and recommendations to stay healthy",
     image: images.onboarding3,
   },
 ];
